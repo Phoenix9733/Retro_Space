@@ -19,3 +19,6 @@ La versioni utilizzate per il progetto sono quella di Unity 2021.3.21f1 (LTS), V
 
 ![Screenshot 2023-04-19 210657](https://user-images.githubusercontent.com/83755271/233825417-bc5a03e9-5646-4aeb-aaa8-1362ec5c8f83.png)
 
+![Screenshot 2023-04-16 125207](https://user-images.githubusercontent.com/83755271/233825449-527c9fca-c57d-4d4a-9f05-621315a11067.png)
+
+![Screenshot 2023-04-16 125131](https://user-images.githubusercontent.com/83755271/233825458-b92095c5-4e7e-4d3f-987f-21c7cef4b3e4.png)
